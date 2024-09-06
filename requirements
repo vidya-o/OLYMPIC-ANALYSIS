@@ -1,0 +1,9 @@
+#these are the tools we need to install to run the code
+
+streamlit
+pandas
+numpy
+plotly
+seaborn
+matplotlib
+spicy
